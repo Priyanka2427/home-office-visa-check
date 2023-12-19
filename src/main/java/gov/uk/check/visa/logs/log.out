@@ -1,0 +1,940 @@
+2023-12-18 16:12:801 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-18 16:12:867 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-18 16:12:642 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-18 16:12:204 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-18 23:12:608 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-18 23:12:290 INFO  ManageBrowser :30 - accept cookies
+2023-12-18 23:12:448 INFO  ManageBrowser :35 - Click on hide message
+2023-12-18 23:12:669 INFO  ManageBrowser :40 - Click on start Button
+2023-12-18 23:12:286 INFO  ManageBrowser :24 - Select Nationality
+2023-12-18 23:12:571 INFO  ManageBrowser :29 - Click next step Button
+2023-12-18 23:12:928 INFO  ManageBrowser :40 - click on continue button
+2023-12-18 23:12:427 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-18 23:12:25 INFO  ManageBrowser :40 - Click on start Button
+2023-12-18 23:12:857 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 11:12:363 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 11:12:890 INFO  ManageBrowser :30 - accept cookies
+2023-12-19 11:12:965 INFO  ManageBrowser :35 - Click on hide message
+2023-12-19 11:12:21 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 11:12:322 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 11:12:417 INFO  ManageBrowser :29 - Click next step Button
+2023-12-19 11:12:599 INFO  ManageBrowser :28 - select Reason for visit
+2023-12-19 11:12:771 INFO  ManageBrowser :41 - click on continue button
+2023-12-19 11:12:976 INFO  ManageBrowser :33 - get result message
+2023-12-19 11:12:374 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 11:12:764 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 11:12:966 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 11:12:57 INFO  ManageBrowser :41 - click on continue button
+2023-12-19 11:12:226 INFO  ManageBrowser :28 - select Reason for visit
+2023-12-19 11:12:373 INFO  ManageBrowser :41 - click on continue button
+2023-12-19 11:12:653 INFO  ManageBrowser :37 - Select More Then 6months
+2023-12-19 11:12:736 INFO  ManageBrowser :41 - click on continue button
+2023-12-19 11:12:902 INFO  ManageBrowser :25 - Select job type
+2023-12-19 11:12:975 INFO  ManageBrowser :41 - click on continue button
+2023-12-19 11:12:558 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 11:12:941 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 11:12:798 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 11:12:224 INFO  ManageBrowser :30 - accept cookies
+2023-12-19 11:12:299 INFO  ManageBrowser :35 - Click on hide message
+2023-12-19 11:12:354 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 11:12:654 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 11:12:743 INFO  ManageBrowser :29 - Click next step Button
+2023-12-19 11:12:917 INFO  ManageBrowser :28 - select Reason for visit
+2023-12-19 11:12:73 INFO  ManageBrowser :41 - click on continue button
+2023-12-19 11:12:266 INFO  ManageBrowser :33 - get result message
+2023-12-19 11:12:556 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 11:12:945 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 11:12:121 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 11:12:217 INFO  ManageBrowser :41 - click on continue button
+2023-12-19 11:12:371 INFO  ManageBrowser :28 - select Reason for visit
+2023-12-19 11:12:471 INFO  ManageBrowser :41 - click on continue button
+2023-12-19 11:12:614 INFO  ManageBrowser :37 - Select More Then 6months
+2023-12-19 11:12:696 INFO  ManageBrowser :41 - click on continue button
+2023-12-19 11:12:875 INFO  ManageBrowser :25 - Select job type
+2023-12-19 11:12:930 INFO  ManageBrowser :41 - click on continue button
+2023-12-19 11:12:101 INFO  ManageBrowser :38 - confirm result message
+2023-12-19 11:12:278 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 11:12:682 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 11:12:53 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 11:12:605 INFO  ManageBrowser :30 - accept cookies
+2023-12-19 11:12:685 INFO  ManageBrowser :35 - Click on hide message
+2023-12-19 11:12:759 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 11:12:79 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 11:12:187 INFO  ManageBrowser :29 - Click next step Button
+2023-12-19 11:12:402 INFO  ManageBrowser :28 - select Reason for visit
+2023-12-19 11:12:587 INFO  ManageBrowser :41 - click on continue button
+2023-12-19 11:12:810 INFO  ManageBrowser :33 - get result message
+2023-12-19 11:12:379 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 11:12:844 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 11:12:93 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 11:12:221 INFO  ManageBrowser :41 - click on continue button
+2023-12-19 11:12:431 INFO  ManageBrowser :28 - select Reason for visit
+2023-12-19 11:12:518 INFO  ManageBrowser :41 - click on continue button
+2023-12-19 11:12:695 INFO  ManageBrowser :37 - Select More Then 6months
+2023-12-19 11:12:769 INFO  ManageBrowser :41 - click on continue button
+2023-12-19 11:12:930 INFO  ManageBrowser :25 - Select job type
+2023-12-19 11:12:21 INFO  ManageBrowser :41 - click on continue button
+2023-12-19 11:12:216 INFO  ManageBrowser :38 - confirm result message
+2023-12-19 11:12:623 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 11:12:67 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 11:12:291 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 11:12:382 INFO  ManageBrowser :41 - click on continue button
+2023-12-19 11:12:538 INFO  ManageBrowser :28 - select Reason for visit
+2023-12-19 11:12:713 INFO  ManageBrowser :41 - click on continue button
+2023-12-19 11:12:454 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 11:12:872 INFO  ManageBrowser :30 - accept cookies
+2023-12-19 11:12:932 INFO  ManageBrowser :35 - Click on hide message
+2023-12-19 11:12:981 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 11:12:280 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 11:12:379 INFO  ManageBrowser :29 - Click next step Button
+2023-12-19 11:12:547 INFO  ManageBrowser :28 - select Reason for visit
+2023-12-19 11:12:707 INFO  ManageBrowser :41 - click on continue button
+2023-12-19 11:12:888 INFO  ManageBrowser :33 - get result message
+2023-12-19 11:12:73 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 11:12:471 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 11:12:646 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 11:12:738 INFO  ManageBrowser :41 - click on continue button
+2023-12-19 11:12:889 INFO  ManageBrowser :28 - select Reason for visit
+2023-12-19 11:12:30 INFO  ManageBrowser :41 - click on continue button
+2023-12-19 11:12:183 INFO  ManageBrowser :37 - Select More Then 6months
+2023-12-19 11:12:261 INFO  ManageBrowser :41 - click on continue button
+2023-12-19 11:12:445 INFO  ManageBrowser :25 - Select job type
+2023-12-19 11:12:525 INFO  ManageBrowser :41 - click on continue button
+2023-12-19 11:12:738 INFO  ManageBrowser :38 - confirm result message
+2023-12-19 11:12:865 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 11:12:82 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 11:12:540 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 11:12:625 INFO  ManageBrowser :41 - click on continue button
+2023-12-19 11:12:795 INFO  ManageBrowser :28 - select Reason for visit
+2023-12-19 11:12:918 INFO  ManageBrowser :41 - click on continue button
+2023-12-19 11:12:77 INFO  ManageBrowser :43 - confirm result message1
+2023-12-19 11:12:460 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 11:12:900 INFO  ManageBrowser :30 - accept cookies
+2023-12-19 11:12:30 INFO  ManageBrowser :35 - Click on hide message
+2023-12-19 11:12:107 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 11:12:445 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 11:12:560 INFO  ManageBrowser :29 - Click next step Button
+2023-12-19 11:12:748 INFO  ManageBrowser :28 - select Reason for visit
+2023-12-19 11:12:895 INFO  ManageBrowser :41 - click on continue button
+2023-12-19 11:12:99 INFO  ManageBrowser :33 - get result message
+2023-12-19 11:12:276 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 11:12:676 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 11:12:891 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 11:12:980 INFO  ManageBrowser :41 - click on continue button
+2023-12-19 11:12:169 INFO  ManageBrowser :28 - select Reason for visit
+2023-12-19 11:12:275 INFO  ManageBrowser :41 - click on continue button
+2023-12-19 11:12:420 INFO  ManageBrowser :37 - Select More Then 6months
+2023-12-19 11:12:497 INFO  ManageBrowser :41 - click on continue button
+2023-12-19 11:12:667 INFO  ManageBrowser :25 - Select job type
+2023-12-19 11:12:740 INFO  ManageBrowser :41 - click on continue button
+2023-12-19 11:12:915 INFO  ManageBrowser :38 - confirm result message
+2023-12-19 11:12:66 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 11:12:497 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 11:12:678 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 11:12:775 INFO  ManageBrowser :41 - click on continue button
+2023-12-19 11:12:917 INFO  ManageBrowser :28 - select Reason for visit
+2023-12-19 11:12:85 INFO  ManageBrowser :41 - click on continue button
+2023-12-19 11:12:255 INFO  ManageBrowser :43 - confirm result message1
+2023-12-19 11:12:650 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 11:12:146 INFO  ManageBrowser :30 - accept cookies
+2023-12-19 11:12:225 INFO  ManageBrowser :35 - Click on hide message
+2023-12-19 11:12:288 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 11:12:565 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 11:12:652 INFO  ManageBrowser :29 - Click next step Button
+2023-12-19 11:12:818 INFO  ManageBrowser :28 - select Reason for visit
+2023-12-19 11:12:988 INFO  ManageBrowser :41 - click on continue button
+2023-12-19 11:12:187 INFO  ManageBrowser :33 - get result message
+2023-12-19 11:12:415 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 11:12:821 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 11:12:09 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 11:12:100 INFO  ManageBrowser :41 - click on continue button
+2023-12-19 11:12:255 INFO  ManageBrowser :28 - select Reason for visit
+2023-12-19 11:12:387 INFO  ManageBrowser :41 - click on continue button
+2023-12-19 11:12:546 INFO  ManageBrowser :37 - Select More Then 6months
+2023-12-19 11:12:632 INFO  ManageBrowser :41 - click on continue button
+2023-12-19 11:12:770 INFO  ManageBrowser :25 - Select job type
+2023-12-19 11:12:847 INFO  ManageBrowser :41 - click on continue button
+2023-12-19 11:12:24 INFO  ManageBrowser :38 - confirm result message
+2023-12-19 11:12:291 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 11:12:729 INFO  ManageBrowser :30 - accept cookies
+2023-12-19 11:12:804 INFO  ManageBrowser :35 - Click on hide message
+2023-12-19 11:12:863 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 11:12:163 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 11:12:248 INFO  ManageBrowser :29 - Click next step Button
+2023-12-19 11:12:420 INFO  ManageBrowser :28 - select Reason for visit
+2023-12-19 11:12:577 INFO  ManageBrowser :41 - click on continue button
+2023-12-19 11:12:774 INFO  ManageBrowser :33 - get result message
+2023-12-19 11:12:02 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 11:12:410 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 11:12:579 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 11:12:662 INFO  ManageBrowser :41 - click on continue button
+2023-12-19 11:12:815 INFO  ManageBrowser :28 - select Reason for visit
+2023-12-19 11:12:924 INFO  ManageBrowser :41 - click on continue button
+2023-12-19 11:12:78 INFO  ManageBrowser :37 - Select More Then 6months
+2023-12-19 11:12:171 INFO  ManageBrowser :41 - click on continue button
+2023-12-19 11:12:307 INFO  ManageBrowser :25 - Select job type
+2023-12-19 11:12:387 INFO  ManageBrowser :41 - click on continue button
+2023-12-19 11:12:548 INFO  ManageBrowser :38 - confirm result message
+2023-12-19 11:12:346 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 11:12:844 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 11:12:64 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 11:12:168 INFO  ManageBrowser :41 - click on continue button
+2023-12-19 11:12:305 INFO  ManageBrowser :28 - select Reason for visit
+2023-12-19 11:12:447 INFO  ManageBrowser :41 - click on continue button
+2023-12-19 11:12:623 INFO  ManageBrowser :43 - confirm result message1
+2023-12-19 11:12:27 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 11:12:450 INFO  ManageBrowser :30 - accept cookies
+2023-12-19 11:12:517 INFO  ManageBrowser :35 - Click on hide message
+2023-12-19 11:12:573 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 11:12:913 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 11:12:00 INFO  ManageBrowser :29 - Click next step Button
+2023-12-19 11:12:163 INFO  ManageBrowser :28 - select Reason for visit
+2023-12-19 11:12:329 INFO  ManageBrowser :41 - click on continue button
+2023-12-19 11:12:531 INFO  ManageBrowser :33 - get result message
+2023-12-19 11:12:771 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 11:12:200 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 11:12:379 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 11:12:473 INFO  ManageBrowser :41 - click on continue button
+2023-12-19 11:12:628 INFO  ManageBrowser :28 - select Reason for visit
+2023-12-19 11:12:746 INFO  ManageBrowser :41 - click on continue button
+2023-12-19 11:12:889 INFO  ManageBrowser :37 - Select More Then 6months
+2023-12-19 11:12:970 INFO  ManageBrowser :41 - click on continue button
+2023-12-19 11:12:108 INFO  ManageBrowser :25 - Select job type
+2023-12-19 11:12:187 INFO  ManageBrowser :41 - click on continue button
+2023-12-19 11:12:381 INFO  ManageBrowser :38 - confirm result message
+2023-12-19 11:12:251 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 11:12:671 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 11:12:897 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 11:12:998 INFO  ManageBrowser :41 - click on continue button
+2023-12-19 11:12:179 INFO  ManageBrowser :28 - select Reason for visit
+2023-12-19 11:12:350 INFO  ManageBrowser :41 - click on continue button
+2023-12-19 11:12:539 INFO  ManageBrowser :43 - confirm result message1
+2023-12-19 11:12:901 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 11:12:504 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 11:12:35 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 11:12:496 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 11:12:26 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 11:12:506 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 11:12:970 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 11:12:386 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 11:12:844 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 11:12:317 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 11:12:834 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 11:12:269 INFO  ManageBrowser :30 - accept cookies
+2023-12-19 11:12:342 INFO  ManageBrowser :35 - Click on hide message
+2023-12-19 11:12:400 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 11:12:732 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 11:12:826 INFO  ManageBrowser :29 - Click next step Button
+2023-12-19 11:12:17 INFO  ManageBrowser :28 - select Reason for visit
+2023-12-19 11:12:185 INFO  ManageBrowser :41 - click on continue button
+2023-12-19 11:12:399 INFO  ManageBrowser :33 - get result message
+2023-12-19 11:12:718 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 11:12:125 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 11:12:312 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 11:12:405 INFO  ManageBrowser :41 - click on continue button
+2023-12-19 11:12:551 INFO  ManageBrowser :28 - select Reason for visit
+2023-12-19 11:12:676 INFO  ManageBrowser :41 - click on continue button
+2023-12-19 11:12:831 INFO  ManageBrowser :37 - Select More Then 6months
+2023-12-19 11:12:911 INFO  ManageBrowser :41 - click on continue button
+2023-12-19 11:12:61 INFO  ManageBrowser :25 - Select job type
+2023-12-19 11:12:136 INFO  ManageBrowser :41 - click on continue button
+2023-12-19 11:12:329 INFO  ManageBrowser :38 - confirm result message
+2023-12-19 11:12:679 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 11:12:472 INFO  ManageBrowser :30 - accept cookies
+2023-12-19 11:12:600 INFO  ManageBrowser :35 - Click on hide message
+2023-12-19 11:12:830 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 11:12:507 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 11:12:669 INFO  ManageBrowser :29 - Click next step Button
+2023-12-19 11:12:969 INFO  ManageBrowser :28 - select Reason for visit
+2023-12-19 11:12:324 INFO  ManageBrowser :41 - click on continue button
+2023-12-19 11:12:666 INFO  ManageBrowser :33 - get result message
+2023-12-19 11:12:839 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 11:12:413 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 11:12:730 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 11:12:904 INFO  ManageBrowser :41 - click on continue button
+2023-12-19 11:12:169 INFO  ManageBrowser :28 - select Reason for visit
+2023-12-19 11:12:385 INFO  ManageBrowser :41 - click on continue button
+2023-12-19 11:12:626 INFO  ManageBrowser :37 - Select More Then 6months
+2023-12-19 11:12:800 INFO  ManageBrowser :41 - click on continue button
+2023-12-19 11:12:11 INFO  ManageBrowser :25 - Select job type
+2023-12-19 11:12:172 INFO  ManageBrowser :41 - click on continue button
+2023-12-19 11:12:537 INFO  ManageBrowser :38 - confirm result message
+2023-12-19 11:12:412 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 11:12:35 INFO  ManageBrowser :30 - accept cookies
+2023-12-19 11:12:157 INFO  ManageBrowser :35 - Click on hide message
+2023-12-19 11:12:365 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 11:12:853 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 11:12:21 INFO  ManageBrowser :29 - Click next step Button
+2023-12-19 11:12:249 INFO  ManageBrowser :28 - select Reason for visit
+2023-12-19 11:12:581 INFO  ManageBrowser :41 - click on continue button
+2023-12-19 11:12:808 INFO  ManageBrowser :33 - get result message
+2023-12-19 11:12:255 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 11:12:863 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 11:12:160 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 11:12:330 INFO  ManageBrowser :41 - click on continue button
+2023-12-19 11:12:546 INFO  ManageBrowser :28 - select Reason for visit
+2023-12-19 11:12:752 INFO  ManageBrowser :41 - click on continue button
+2023-12-19 11:12:955 INFO  ManageBrowser :37 - Select More Then 6months
+2023-12-19 11:12:116 INFO  ManageBrowser :41 - click on continue button
+2023-12-19 11:12:349 INFO  ManageBrowser :25 - Select job type
+2023-12-19 11:12:509 INFO  ManageBrowser :41 - click on continue button
+2023-12-19 11:12:726 INFO  ManageBrowser :38 - confirm result message
+2023-12-19 11:12:662 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 11:12:233 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 11:12:577 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 11:12:746 INFO  ManageBrowser :41 - click on continue button
+2023-12-19 11:12:939 INFO  ManageBrowser :28 - select Reason for visit
+2023-12-19 11:12:183 INFO  ManageBrowser :41 - click on continue button
+2023-12-19 11:12:406 INFO  ManageBrowser :43 - confirm result message1
+2023-12-19 11:12:433 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 11:12:89 INFO  ManageBrowser :30 - accept cookies
+2023-12-19 11:12:208 INFO  ManageBrowser :35 - Click on hide message
+2023-12-19 11:12:352 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 11:12:921 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 11:12:114 INFO  ManageBrowser :29 - Click next step Button
+2023-12-19 11:12:362 INFO  ManageBrowser :28 - select Reason for visit
+2023-12-19 11:12:712 INFO  ManageBrowser :41 - click on continue button
+2023-12-19 11:12:994 INFO  ManageBrowser :33 - get result message
+2023-12-19 11:12:222 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 11:12:804 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 11:12:72 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 11:12:259 INFO  ManageBrowser :41 - click on continue button
+2023-12-19 11:12:488 INFO  ManageBrowser :28 - select Reason for visit
+2023-12-19 11:12:671 INFO  ManageBrowser :41 - click on continue button
+2023-12-19 11:12:882 INFO  ManageBrowser :37 - Select More Then 6months
+2023-12-19 11:12:38 INFO  ManageBrowser :41 - click on continue button
+2023-12-19 11:12:254 INFO  ManageBrowser :25 - Select job type
+2023-12-19 11:12:404 INFO  ManageBrowser :41 - click on continue button
+2023-12-19 11:12:613 INFO  ManageBrowser :38 - confirm result message
+2023-12-19 11:12:106 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 11:12:729 INFO  ManageBrowser :30 - accept cookies
+2023-12-19 11:12:849 INFO  ManageBrowser :35 - Click on hide message
+2023-12-19 11:12:77 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 11:12:569 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 11:12:750 INFO  ManageBrowser :29 - Click next step Button
+2023-12-19 11:12:50 INFO  ManageBrowser :28 - select Reason for visit
+2023-12-19 11:12:346 INFO  ManageBrowser :41 - click on continue button
+2023-12-19 11:12:607 INFO  ManageBrowser :33 - get result message
+2023-12-19 11:12:825 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 11:12:416 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 11:12:706 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 11:12:882 INFO  ManageBrowser :41 - click on continue button
+2023-12-19 11:12:142 INFO  ManageBrowser :28 - select Reason for visit
+2023-12-19 11:12:354 INFO  ManageBrowser :41 - click on continue button
+2023-12-19 11:12:562 INFO  ManageBrowser :37 - Select More Then 6months
+2023-12-19 11:12:750 INFO  ManageBrowser :41 - click on continue button
+2023-12-19 11:12:975 INFO  ManageBrowser :25 - Select job type
+2023-12-19 11:12:130 INFO  ManageBrowser :41 - click on continue button
+2023-12-19 11:12:360 INFO  ManageBrowser :38 - confirm result message
+2023-12-19 11:12:256 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 11:12:868 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 11:12:214 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 11:12:379 INFO  ManageBrowser :41 - click on continue button
+2023-12-19 11:12:601 INFO  ManageBrowser :28 - select Reason for visit
+2023-12-19 11:12:848 INFO  ManageBrowser :41 - click on continue button
+2023-12-19 11:12:34 INFO  ManageBrowser :43 - confirm result message1
+2023-12-19 11:12:959 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 11:12:701 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 11:12:11 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 11:12:605 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 11:12:894 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 11:12:444 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 11:12:671 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 11:12:211 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 11:12:327 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 11:12:904 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 11:12:165 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 11:12:713 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 11:12:926 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 11:12:466 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 11:12:599 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 11:12:213 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 11:12:376 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 11:12:901 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 11:12:188 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 11:12:774 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 11:12:607 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 11:12:228 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 11:12:731 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 11:12:285 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 11:12:496 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 11:12:49 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 11:12:174 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 11:12:804 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 11:12:24 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 11:12:630 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 11:12:901 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 11:12:482 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 11:12:612 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 11:12:196 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 11:12:367 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 11:12:929 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 11:12:197 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 11:12:778 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 11:12:09 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 11:12:580 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 11:12:184 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 11:12:600 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 11:12:87 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 11:12:502 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 11:12:927 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 11:12:332 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 11:12:814 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 11:12:210 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 11:12:574 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 11:12:110 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 11:12:564 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 11:12:976 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 11:12:427 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 11:12:827 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 11:12:180 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 11:12:593 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 11:12:74 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 11:12:489 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 11:12:867 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 11:12:250 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 11:12:383 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 11:12:961 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 11:12:216 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 11:12:682 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 11:12:102 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 11:12:321 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 11:12:580 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 11:12:965 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 11:12:200 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 11:12:546 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 11:12:978 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 11:12:167 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 11:12:500 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 11:12:13 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 12:12:671 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 12:12:108 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 12:12:309 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 12:12:646 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 12:12:26 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 12:12:248 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 12:12:687 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 12:12:127 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 12:12:309 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 12:12:936 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 12:12:358 INFO  ManageBrowser :30 - accept cookies
+2023-12-19 12:12:430 INFO  ManageBrowser :35 - Click on hide message
+2023-12-19 12:12:482 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 12:12:785 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 12:12:881 INFO  ManageBrowser :29 - Click next step Button
+2023-12-19 12:12:61 INFO  ManageBrowser :28 - select Reason for visit
+2023-12-19 12:12:211 INFO  ManageBrowser :41 - click on continue button
+2023-12-19 12:12:421 INFO  ManageBrowser :33 - get result message
+2023-12-19 12:12:632 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 12:12:23 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 12:12:220 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 12:12:306 INFO  ManageBrowser :41 - click on continue button
+2023-12-19 12:12:509 INFO  ManageBrowser :28 - select Reason for visit
+2023-12-19 12:12:578 INFO  ManageBrowser :41 - click on continue button
+2023-12-19 12:12:734 INFO  ManageBrowser :37 - Select More Then 6months
+2023-12-19 12:12:818 INFO  ManageBrowser :41 - click on continue button
+2023-12-19 12:12:977 INFO  ManageBrowser :25 - Select job type
+2023-12-19 12:12:61 INFO  ManageBrowser :41 - click on continue button
+2023-12-19 12:12:249 INFO  ManageBrowser :38 - confirm result message
+2023-12-19 12:12:449 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 12:12:867 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 12:12:69 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 12:12:163 INFO  ManageBrowser :41 - click on continue button
+2023-12-19 12:12:340 INFO  ManageBrowser :28 - select Reason for visit
+2023-12-19 12:12:490 INFO  ManageBrowser :41 - click on continue button
+2023-12-19 12:12:667 INFO  ManageBrowser :43 - confirm result message1
+2023-12-19 12:12:946 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 12:12:470 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 12:12:729 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 12:12:476 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 12:12:912 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 12:12:154 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 12:12:345 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 12:12:823 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 12:12:104 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 12:12:286 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 12:12:727 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 12:12:973 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 12:12:111 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 12:12:586 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 12:12:812 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 12:12:228 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 12:12:687 INFO  ManageBrowser :30 - accept cookies
+2023-12-19 12:12:765 INFO  ManageBrowser :35 - Click on hide message
+2023-12-19 12:12:817 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 12:12:130 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 12:12:238 INFO  ManageBrowser :29 - Click next step Button
+2023-12-19 12:12:421 INFO  ManageBrowser :28 - select Reason for visit
+2023-12-19 12:12:598 INFO  ManageBrowser :41 - click on continue button
+2023-12-19 12:12:887 INFO  ManageBrowser :33 - get result message
+2023-12-19 12:12:859 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 12:12:327 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 12:12:594 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 12:12:715 INFO  ManageBrowser :41 - click on continue button
+2023-12-19 12:12:860 INFO  ManageBrowser :28 - select Reason for visit
+2023-12-19 12:12:31 INFO  ManageBrowser :41 - click on continue button
+2023-12-19 12:12:192 INFO  ManageBrowser :37 - Select More Then 6months
+2023-12-19 12:12:308 INFO  ManageBrowser :41 - click on continue button
+2023-12-19 12:12:499 INFO  ManageBrowser :25 - Select job type
+2023-12-19 12:12:589 INFO  ManageBrowser :41 - click on continue button
+2023-12-19 12:12:767 INFO  ManageBrowser :38 - confirm result message
+2023-12-19 12:12:153 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 12:12:602 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 12:12:847 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 12:12:952 INFO  ManageBrowser :41 - click on continue button
+2023-12-19 12:12:120 INFO  ManageBrowser :28 - select Reason for visit
+2023-12-19 12:12:315 INFO  ManageBrowser :41 - click on continue button
+2023-12-19 12:12:475 INFO  ManageBrowser :43 - confirm result message1
+2023-12-19 12:12:654 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 12:12:174 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 12:12:387 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 12:12:26 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 12:12:476 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 12:12:728 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 12:12:471 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 12:12:105 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 12:12:387 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 12:12:345 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 12:12:981 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 12:12:226 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 12:12:477 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 12:12:57 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 12:12:284 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 12:12:981 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 12:12:439 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 12:12:664 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 12:12:994 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 12:12:493 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 12:12:726 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 12:12:197 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 12:12:662 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 12:12:855 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 12:12:198 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 12:12:670 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 12:12:916 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 12:12:68 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 12:12:637 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 12:12:867 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 12:12:20 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 12:12:649 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 12:12:954 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 12:12:103 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 12:12:681 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 12:12:932 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 12:12:128 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 12:12:534 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 12:12:720 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 12:12:55 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 12:12:466 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 12:12:660 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 12:12:767 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 12:12:172 INFO  ManageBrowser :30 - accept cookies
+2023-12-19 12:12:239 INFO  ManageBrowser :35 - Click on hide message
+2023-12-19 12:12:291 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 12:12:598 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 12:12:683 INFO  ManageBrowser :29 - Click next step Button
+2023-12-19 12:12:849 INFO  ManageBrowser :28 - select Reason for visit
+2023-12-19 12:12:11 INFO  ManageBrowser :41 - click on continue button
+2023-12-19 12:12:195 INFO  ManageBrowser :33 - get result message
+2023-12-19 12:12:480 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 12:12:879 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 12:12:101 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 12:12:204 INFO  ManageBrowser :41 - click on continue button
+2023-12-19 12:12:348 INFO  ManageBrowser :28 - select Reason for visit
+2023-12-19 12:12:450 INFO  ManageBrowser :41 - click on continue button
+2023-12-19 12:12:607 INFO  ManageBrowser :37 - Select More Then 6months
+2023-12-19 12:12:684 INFO  ManageBrowser :41 - click on continue button
+2023-12-19 12:12:832 INFO  ManageBrowser :25 - Select job type
+2023-12-19 12:12:911 INFO  ManageBrowser :41 - click on continue button
+2023-12-19 12:12:79 INFO  ManageBrowser :38 - confirm result message
+2023-12-19 12:12:198 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 12:12:621 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 12:12:809 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 12:12:904 INFO  ManageBrowser :41 - click on continue button
+2023-12-19 12:12:49 INFO  ManageBrowser :28 - select Reason for visit
+2023-12-19 12:12:205 INFO  ManageBrowser :41 - click on continue button
+2023-12-19 12:12:360 INFO  ManageBrowser :43 - confirm result message1
+2023-12-19 12:12:194 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 12:12:563 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 12:12:146 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 12:12:583 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 12:12:293 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 12:12:586 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 12:12:542 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 12:12:122 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 12:12:423 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 12:12:560 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 12:12:132 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 12:12:452 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 12:12:498 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 12:12:184 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 12:12:476 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 12:12:437 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 12:12:978 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 12:12:260 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 12:12:192 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 12:12:806 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 12:12:106 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 12:12:105 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 12:12:770 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 12:12:52 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 12:12:74 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 12:12:753 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 12:12:90 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 12:12:39 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 12:12:613 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 12:12:915 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 12:12:908 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 12:12:551 INFO  ManageBrowser :30 - accept cookies
+2023-12-19 12:12:678 INFO  ManageBrowser :35 - Click on hide message
+2023-12-19 12:12:831 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 12:12:377 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 12:12:520 INFO  ManageBrowser :29 - Click next step Button
+2023-12-19 12:12:779 INFO  ManageBrowser :28 - select Reason for visit
+2023-12-19 12:12:124 INFO  ManageBrowser :41 - click on continue button
+2023-12-19 12:12:397 INFO  ManageBrowser :33 - get result message
+2023-12-19 12:12:495 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 12:12:100 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 12:12:388 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 12:12:563 INFO  ManageBrowser :41 - click on continue button
+2023-12-19 12:12:744 INFO  ManageBrowser :28 - select Reason for visit
+2023-12-19 12:12:956 INFO  ManageBrowser :41 - click on continue button
+2023-12-19 12:12:148 INFO  ManageBrowser :37 - Select More Then 6months
+2023-12-19 12:12:399 INFO  ManageBrowser :41 - click on continue button
+2023-12-19 12:12:603 INFO  ManageBrowser :25 - Select job type
+2023-12-19 12:12:758 INFO  ManageBrowser :41 - click on continue button
+2023-12-19 12:12:49 INFO  ManageBrowser :38 - confirm result message
+2023-12-19 12:12:145 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 12:12:816 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 12:12:145 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 12:12:294 INFO  ManageBrowser :41 - click on continue button
+2023-12-19 12:12:533 INFO  ManageBrowser :28 - select Reason for visit
+2023-12-19 12:12:805 INFO  ManageBrowser :41 - click on continue button
+2023-12-19 12:12:73 INFO  ManageBrowser :43 - confirm result message1
+2023-12-19 13:12:886 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 13:12:300 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 13:12:502 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 13:12:894 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 13:12:298 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 13:12:468 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 13:12:594 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 13:12:976 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 13:12:184 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 13:12:317 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 13:12:720 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 13:12:896 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 13:12:66 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 13:12:456 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 13:12:737 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 13:12:69 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 13:12:474 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 13:12:702 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 13:12:871 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 13:12:265 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 13:12:453 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 13:12:710 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 13:12:132 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 13:12:346 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 13:12:485 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 13:12:894 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 13:12:96 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 13:12:226 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 13:12:613 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 13:12:744 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 13:12:905 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 13:12:285 INFO  ManageBrowser :30 - accept cookies
+2023-12-19 13:12:351 INFO  ManageBrowser :35 - Click on hide message
+2023-12-19 13:12:402 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 13:12:696 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 13:12:776 INFO  ManageBrowser :29 - Click next step Button
+2023-12-19 13:12:933 INFO  ManageBrowser :28 - select Reason for visit
+2023-12-19 13:12:101 INFO  ManageBrowser :41 - click on continue button
+2023-12-19 13:12:311 INFO  ManageBrowser :33 - get result message
+2023-12-19 13:12:551 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 13:12:137 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 13:12:354 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 13:12:433 INFO  ManageBrowser :41 - click on continue button
+2023-12-19 13:12:577 INFO  ManageBrowser :28 - select Reason for visit
+2023-12-19 13:12:683 INFO  ManageBrowser :41 - click on continue button
+2023-12-19 13:12:847 INFO  ManageBrowser :37 - Select More Then 6months
+2023-12-19 13:12:927 INFO  ManageBrowser :41 - click on continue button
+2023-12-19 13:12:134 INFO  ManageBrowser :25 - Select job type
+2023-12-19 13:12:186 INFO  ManageBrowser :41 - click on continue button
+2023-12-19 13:12:436 INFO  ManageBrowser :38 - confirm result message
+2023-12-19 13:12:613 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 13:12:61 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 13:12:248 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 13:12:335 INFO  ManageBrowser :41 - click on continue button
+2023-12-19 13:12:487 INFO  ManageBrowser :28 - select Reason for visit
+2023-12-19 13:12:610 INFO  ManageBrowser :41 - click on continue button
+2023-12-19 13:12:817 INFO  ManageBrowser :43 - confirm result message1
+2023-12-19 15:12:719 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 15:12:214 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 15:12:407 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 15:12:728 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 15:12:113 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 15:12:300 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 15:12:699 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 15:12:127 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 15:12:309 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 15:12:485 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 15:12:873 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 15:12:72 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 15:12:252 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 15:12:637 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 15:12:858 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 15:12:01 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 15:12:376 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 15:12:610 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 15:12:776 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 15:12:150 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 15:12:354 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 15:12:514 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 15:12:905 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 15:12:95 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 15:12:321 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 15:12:699 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 15:12:896 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 15:12:74 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 15:12:445 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 15:12:612 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 15:12:833 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 15:12:235 INFO  ManageBrowser :30 - accept cookies
+2023-12-19 15:12:296 INFO  ManageBrowser :35 - Click on hide message
+2023-12-19 15:12:342 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 15:12:656 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 15:12:734 INFO  ManageBrowser :29 - Click next step Button
+2023-12-19 15:12:964 INFO  ManageBrowser :28 - select Reason for visit
+2023-12-19 15:12:118 INFO  ManageBrowser :41 - click on continue button
+2023-12-19 15:12:310 INFO  ManageBrowser :33 - get result message
+2023-12-19 15:12:578 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 15:12:970 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 15:12:225 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 15:12:320 INFO  ManageBrowser :41 - click on continue button
+2023-12-19 15:12:470 INFO  ManageBrowser :28 - select Reason for visit
+2023-12-19 15:12:603 INFO  ManageBrowser :41 - click on continue button
+2023-12-19 15:12:760 INFO  ManageBrowser :34 - Select More Then 6months
+2023-12-19 15:12:867 INFO  ManageBrowser :41 - click on continue button
+2023-12-19 15:12:06 INFO  ManageBrowser :25 - Select job type
+2023-12-19 15:12:80 INFO  ManageBrowser :41 - click on continue button
+2023-12-19 15:12:292 INFO  ManageBrowser :38 - confirm result message
+2023-12-19 15:12:624 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 15:12:24 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 15:12:223 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 15:12:313 INFO  ManageBrowser :41 - click on continue button
+2023-12-19 15:12:459 INFO  ManageBrowser :28 - select Reason for visit
+2023-12-19 15:12:599 INFO  ManageBrowser :41 - click on continue button
+2023-12-19 15:12:751 INFO  ManageBrowser :43 - confirm result message1
+2023-12-19 15:12:716 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 15:12:174 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 15:12:388 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 15:12:624 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 15:12:34 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 15:12:222 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 15:12:422 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 15:12:804 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 15:12:983 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 15:12:146 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 15:12:580 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 15:12:796 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 15:12:926 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 15:12:318 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 15:12:551 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 15:12:725 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 15:12:117 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 15:12:388 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 15:12:522 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 15:12:909 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 15:12:79 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 15:12:367 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 15:12:757 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 15:12:972 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 15:12:198 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 15:12:579 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 15:12:796 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 15:12:120 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 15:12:510 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 15:12:710 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 15:12:970 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 15:12:337 INFO  ManageBrowser :30 - accept cookies
+2023-12-19 15:12:400 INFO  ManageBrowser :35 - Click on hide message
+2023-12-19 15:12:447 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 15:12:770 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 15:12:847 INFO  ManageBrowser :29 - Click next step Button
+2023-12-19 15:12:12 INFO  ManageBrowser :28 - select Reason for visit
+2023-12-19 15:12:170 INFO  ManageBrowser :41 - click on continue button
+2023-12-19 15:12:370 INFO  ManageBrowser :33 - get result message
+2023-12-19 15:12:619 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 15:12:23 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 15:12:232 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 15:12:330 INFO  ManageBrowser :41 - click on continue button
+2023-12-19 15:12:483 INFO  ManageBrowser :28 - select Reason for visit
+2023-12-19 15:12:623 INFO  ManageBrowser :41 - click on continue button
+2023-12-19 15:12:955 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 15:12:336 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 15:12:516 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 15:12:597 INFO  ManageBrowser :41 - click on continue button
+2023-12-19 15:12:744 INFO  ManageBrowser :28 - select Reason for visit
+2023-12-19 15:12:874 INFO  ManageBrowser :41 - click on continue button
+2023-12-19 15:12:54 INFO  ManageBrowser :43 - confirm result message1
+2023-12-19 15:12:369 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 15:12:801 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 15:12:969 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 15:12:235 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 15:12:617 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 15:12:804 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 15:12:60 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 15:12:445 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 15:12:601 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 15:12:798 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 15:12:349 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 15:12:534 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 15:12:681 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 15:12:73 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 15:12:281 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 15:12:454 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 15:12:878 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 15:12:50 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 15:12:194 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 15:12:575 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 15:12:793 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 15:12:147 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 15:12:544 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 15:12:733 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 15:12:113 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 15:12:486 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 15:12:692 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 15:12:961 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 15:12:368 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 15:12:568 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 15:12:730 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 15:12:141 INFO  ManageBrowser :30 - accept cookies
+2023-12-19 15:12:201 INFO  ManageBrowser :35 - Click on hide message
+2023-12-19 15:12:251 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 15:12:562 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 15:12:637 INFO  ManageBrowser :29 - Click next step Button
+2023-12-19 15:12:798 INFO  ManageBrowser :28 - select Reason for visit
+2023-12-19 15:12:952 INFO  ManageBrowser :41 - click on continue button
+2023-12-19 15:12:138 INFO  ManageBrowser :33 - get result message
+2023-12-19 15:12:438 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 15:12:825 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 15:12:22 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 15:12:107 INFO  ManageBrowser :41 - click on continue button
+2023-12-19 15:12:250 INFO  ManageBrowser :28 - select Reason for visit
+2023-12-19 15:12:383 INFO  ManageBrowser :41 - click on continue button
+2023-12-19 15:12:923 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 15:12:332 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 15:12:522 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 15:12:614 INFO  ManageBrowser :41 - click on continue button
+2023-12-19 15:12:778 INFO  ManageBrowser :28 - select Reason for visit
+2023-12-19 15:12:904 INFO  ManageBrowser :41 - click on continue button
+2023-12-19 15:12:67 INFO  ManageBrowser :43 - confirm result message1
+2023-12-19 15:12:350 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 15:12:771 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 15:12:964 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 15:12:218 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 15:12:596 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 15:12:794 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 15:12:910 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 15:12:313 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 15:12:488 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 15:12:651 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 15:12:50 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 15:12:226 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 15:12:427 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 15:12:806 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 15:12:982 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 15:12:252 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 15:12:637 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 15:12:827 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 15:12:989 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 15:12:384 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 15:12:605 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 15:12:767 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 15:12:158 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 15:12:334 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 15:12:588 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 15:12:993 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 15:12:209 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 15:12:339 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 15:12:718 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 15:12:893 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 15:12:87 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 15:12:462 INFO  ManageBrowser :30 - accept cookies
+2023-12-19 15:12:528 INFO  ManageBrowser :35 - Click on hide message
+2023-12-19 15:12:585 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 15:12:884 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 15:12:960 INFO  ManageBrowser :29 - Click next step Button
+2023-12-19 15:12:119 INFO  ManageBrowser :28 - select Reason for visit
+2023-12-19 15:12:277 INFO  ManageBrowser :41 - click on continue button
+2023-12-19 15:12:464 INFO  ManageBrowser :33 - get result message
+2023-12-19 15:12:737 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 15:12:129 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 15:12:345 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 15:12:432 INFO  ManageBrowser :41 - click on continue button
+2023-12-19 15:12:584 INFO  ManageBrowser :28 - select Reason for visit
+2023-12-19 15:12:681 INFO  ManageBrowser :41 - click on continue button
+2023-12-19 15:12:889 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 15:12:278 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 15:12:464 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 15:12:551 INFO  ManageBrowser :41 - click on continue button
+2023-12-19 15:12:732 INFO  ManageBrowser :28 - select Reason for visit
+2023-12-19 15:12:880 INFO  ManageBrowser :41 - click on continue button
+2023-12-19 15:12:38 INFO  ManageBrowser :43 - confirm result message1
+2023-12-19 15:12:209 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 15:12:651 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 15:12:830 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 15:12:74 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 15:12:465 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 15:12:636 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 15:12:788 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 15:12:182 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 15:12:375 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 15:12:833 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 15:12:262 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 15:12:458 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 15:12:788 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 15:12:189 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 15:12:385 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 15:12:701 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 15:12:93 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 15:12:309 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 15:12:460 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 15:12:835 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 15:12:20 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 15:12:152 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 15:12:553 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 15:12:750 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 15:12:888 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 15:12:265 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 15:12:470 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 15:12:631 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 15:12:26 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 15:12:192 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 15:12:332 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 15:12:695 INFO  ManageBrowser :30 - accept cookies
+2023-12-19 15:12:760 INFO  ManageBrowser :35 - Click on hide message
+2023-12-19 15:12:810 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 15:12:112 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 15:12:194 INFO  ManageBrowser :29 - Click next step Button
+2023-12-19 15:12:370 INFO  ManageBrowser :28 - select Reason for visit
+2023-12-19 15:12:533 INFO  ManageBrowser :41 - click on continue button
+2023-12-19 15:12:728 INFO  ManageBrowser :33 - get result message
+2023-12-19 15:12:883 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 15:12:277 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 15:12:439 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 15:12:523 INFO  ManageBrowser :41 - click on continue button
+2023-12-19 15:12:675 INFO  ManageBrowser :28 - select Reason for visit
+2023-12-19 15:12:777 INFO  ManageBrowser :41 - click on continue button
+2023-12-19 15:12:915 INFO  ManageBrowser :34 - Select More Then 6months
+2023-12-19 15:12:997 INFO  ManageBrowser :41 - click on continue button
+2023-12-19 15:12:170 INFO  ManageBrowser :25 - Select job type
+2023-12-19 15:12:253 INFO  ManageBrowser :41 - click on continue button
+2023-12-19 15:12:417 INFO  ManageBrowser :38 - confirm result message
+2023-12-19 15:12:560 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-19 15:12:953 INFO  ManageBrowser :40 - Click on start Button
+2023-12-19 15:12:159 INFO  ManageBrowser :24 - Select Nationality
+2023-12-19 15:12:240 INFO  ManageBrowser :41 - click on continue button
+2023-12-19 15:12:417 INFO  ManageBrowser :28 - select Reason for visit
+2023-12-19 15:12:552 INFO  ManageBrowser :41 - click on continue button
+2023-12-19 15:12:710 INFO  ManageBrowser :43 - confirm result message1
